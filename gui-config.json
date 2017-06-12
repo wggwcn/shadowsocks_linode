@@ -1,0 +1,113 @@
+{
+  "configs": [
+    {
+      "server": "45.32.52.99",
+      "server_port": 8989,
+      "password": "wuyifeng",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "172.104.68.90",
+      "server_port": 139,
+      "password": "wuyifeng",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "45.78.22.117",
+      "server_port": 1764,
+      "password": "74uBsbMyps",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "45.32.31.5",
+      "server_port": 25,
+      "password": "fastfly",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "103.44.61.150",
+      "server_port": 9999,
+      "password": "GUAPI.TK",
+      "method": "chacha20",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "sass.yuweining.cn",
+      "server_port": 6600,
+      "password": "sass.wang",
+      "method": "chacha20",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "172.104.68.90",
+      "server_port": 139,
+      "password": "wuyifeng",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "2400:8902::f03c:91ff:febc:1867/64",
+      "server_port": 139,
+      "password": "wuyifeng",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 1,
+  "global": true,
+  "enabled": false,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": true,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}
